@@ -1,0 +1,291 @@
+[
+   {
+    "id": 1,
+    "name": "Mio M3 CW Motor",
+    "price": "RP. 17.903.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-5901563/yamaha_yamaha_mio_m3_cw_-_palembang_-vin_2020-_full07_p5p9x9de.jpg",
+    "description": {
+        Tipe Mesin : "Air cooled 4-stroke, SOHC",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "125 cc"
+        Kapasitas Tangki Bensi : "4,2 L"
+    } ,
+    "category": {
+      "idCategory": 1,
+      "categoryName": "Matic",
+    },
+    "brand": {
+      "id": 1,
+      "name": "Yamaha",
+    }
+  },
+  {
+    "id": 2,
+    "name": "New Fino Premium",
+    "price": "RP. 19.335.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-5904281/yamaha_yamaha_new_fino_premium_-_palembang_full05_qfjch10l.jpg",
+    "description": {
+        Tipe Mesin : "Air cooled 4-stroke, SOHC",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "125 cc"
+        Kapasitas Tangki Bensi : "4,2 L"
+    } ,
+    "category": {
+      "idCategory": 1,
+      "categoryName": "Matic",
+    },
+    "brand": {
+      "id": 1,
+      "name": "Yamaha",
+    }
+  },
+  {
+    "id": 3,
+    "name": "XSR 155 Sepeda Motor",
+    "price": "RP. 38.000.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-5193587/yamaha_yamaha_xsr_155_sepeda_motor_-vin_2019-_otr_jabodetabek-_full04_b7pbqliq.jpg",
+    "description": {
+        Tipe Mesin : "Liquid cooled, 4-Stroke, SOHC, 4 Valves, VVA",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "155 cc"
+        Kapasitas Tangki Bensi : "10,4 L"
+    } ,
+    "category": {
+      "idCategory": 2,
+      "categoryName": "Naked Bike",
+    },
+    "brand": {
+      "id": 1,
+      "name": "Yamaha",
+    }
+  },
+   {
+    "id": 4,
+    "name": "Yamaha Lexi 125 VVA 2019",
+    "price": "RP. 21.863.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-5193587/yamaha_yamaha_xsr_155_sepeda_motor_-vin_2019-_otr_jabodetabek-_full04_b7pbqliq.jpg",
+    "description": {
+        Tipe Mesin : "Liquid Cooled 4-stroke, SOHC",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "124.7 cc"
+        Kapasitas Tangki Bensi : "4,2 L"
+    } ,
+    "category": {
+      "idCategory": 1,
+      "categoryName": "Matic",
+    },
+    "brand": {
+      "id": 1,
+      "name": "Yamaha",
+    }
+  },
+  {
+    "id": 5,
+    "name": "Yamaha MT 15",
+    "price": "RP. 37.000.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//83/MTA-3076110/yamaha_yamaha-mt-15-sepeda-motor_full14.jpg",
+    "description": {
+        Tipe Mesin : "Liquid cooled, 4-Stroke, SOHC, 4 Valves, VVA",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "155 cc"
+        Kapasitas Tangki Bensi : "10,4 L"
+    } ,
+    "category": {
+      "idCategory": 2,
+      "categoryName": "Naked Bike",
+    },
+    "brand": {
+      "id": 1,
+      "name": "Yamaha",
+    }
+  },
+  [
+   {
+    "id": 6,
+    "name": "Honda New Vario 125 eSP CBS ISS",
+    "price": "Rp. 21.505.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//88/MTA-6074330/honda_honda_new_vario_125_esp_cbs_iss_sepeda_motor_-vin_2020-_otr_bali-_full06_iucmfw58.jpg",
+    "description": {
+        Tipe Mesin : "4-Langkah, SOHC, eSP",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "125 cc"
+        Kapasitas Tangki Bensi : "5,5 liter"
+    } ,
+    "category": {
+      "idCategory": 1,
+      "categoryName": "Matic",
+    },
+    "brand": {
+      "id": 2,
+      "name": "Honda",
+    }
+  },
+  {
+    "id": 7,
+    "name": "Honda ADV 150 CBS",
+    "price": "Rp 36.000.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-4335199/honda_honda_adv_150_cbs_sepeda_motor_-vin_2019-_otr_jadetabek-_full07_jbt3qm9g.jpg",
+    "description": {
+        Tipe Mesin : " 	4 – Langkah, SOHC, eSP, Idling Stop System",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "150 cc"
+        Kapasitas Tangki Bensi : "8 L"
+    } ,
+    "category": {
+      "idCategory": 1,
+      "categoryName": "Matic",
+    },
+    "brand": {
+      "id": 2,
+      "name": "Honda",
+    }
+  },
+  {
+    "id": 8,
+    "name": "Honda New Vario 150 eSP Exclusive",
+    "price": "Rp 25.050.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//93/MTA-6074336/honda_honda_new_vario_150_esp_exclusive_sepeda_motor_-vin_2020-_otr_bali-_full08_y4zmimp.jpg",
+    "description": {
+        Tipe Mesin : "4 langkah, SOHC dengan pendingin cairan",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "150 cc"
+        Kapasitas Tangki Bensi : " 	5,5 liter"
+    } ,
+    "category": {
+      "idCategory": 2,
+      "categoryName": "Naked Bike",
+    },
+    "brand": {
+      "id": 2,
+      "name": "Honda",
+    }
+  },
+   {
+    "id": 9,
+    "name": "Honda New BeAT Street eSP FI CBS",
+    "price": "Rp 18.500.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4652801/honda_honda_new_beat_street_esp_fi_cbs_sepeda_motor_-vin_2019-_otr_jabodetabek-_full04_f4tpyqil.jpg",
+    "description": {
+        Tipe Mesin : "4 – Langkah, SOHC, eSP",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "109.5cc"
+        Kapasitas Tangki Bensi : "4.2 Liter"
+    } ,
+    "category": {
+      "idCategory": 1,
+      "categoryName": "Matic",
+    },
+    "brand": {
+      "id": 2,
+      "name": "Honda",
+    }
+  },
+  {
+    "id": 10,
+    "name": "Honda New CRF 150L",
+    "price": "Rp 37.700.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//101/MTA-6737591/honda_honda_new_crf_150l_sepeda_motor_-nik_2020-otr_jabodetabek-_full05_d3zfxp2j.jpg",
+    "description": {
+        Tipe Mesin : "4-Langkah, SOHC",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "49.15 cc"
+        Kapasitas Tangki Bensi : " 	7.2 L"
+    } ,
+    "category": {
+      "idCategory": 2,
+      "categoryName": "Off Road",
+    },
+    "brand": {
+      "id": 2,
+      "name": "Honda",
+    }
+  },
+
+  {
+    "id": 11,
+    "name": "Honda All New CBR 250RR Sepeda Motor - Racing Red",
+    "price": "RP. 103.000.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//97/MTA-1416895/honda_honda-all-new-cbr-250rr-sepeda-motor---racing-red_full02.jpg",
+    "description": {
+        Tipe Mesin : "4-Stroke, 8-Valve",
+        Susunan silinder : "2 cylinder",
+        Volume Silinder : "249,7 cc"
+        Kapasitas Tangki Bensi : "14,5 L"
+    } ,
+    "category": {
+      "idCategory": 3,
+      "categoryName": "Sport",
+    },
+    "brand": {
+      "id": 2,
+      "name": "Honda",
+    }
+  },
+
+ {
+    "id":12,
+    "name": "Suzuki All New Satria F 150 Black Fire",
+    "price": "RP. 25.360.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-5830068/suzuki_pegadaian_-_suzuki_all_new_satria_f_150_black_fire_sepeda_motor_-otr_jabodetabek-_full02_g58m9ld7.jpg",
+    "description": {
+        Tipe Mesin : "4-tak, Liquid cooled DOHC 4-valve",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "147,3 cc"
+        Kapasitas Tangki Bensi : "4,0 L"
+    } ,
+    "category": {
+      "idCategory": 4,
+      "categoryName": "Naked Bike",
+    },
+    "brand": {
+      "id": 3,
+      "name": "Suzuki",
+    }
+  },
+  {
+    "id":13 ,
+    "name": "Suzuki GSX 150 Bandit",
+    "price": "RP. 25.400.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//95/MTA-5830068/suzuki_pegadaian_-_suzuki_all_new_satria_f_150_black_fire_sepeda_motor_-otr_jabodetabek-_full02_g58m9ld7.jpg",
+    "description": {
+        Tipe Mesin : "Water-cooled, 4 stroke DOHC 4-valve",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "147,3 cc"
+        Kapasitas Tangki Bensi : "8,0 L"
+    } 
+    "category": {
+      "idCategory": 4,
+      "categoryName": "Naked Bike",
+    },
+    "brand": {
+      "id": 3,
+      "name": "Suzuki",
+    }
+  },
+  {
+    "id": 14,
+    "name": "Suzuki GSX-R150",
+    "price": "RP. 30.600.000",
+    "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//90/MTA-4478012/suzuki_suzuki_new_gsx-r_150_shuttered_key_sepeda_motor_-vin_2019-_otr_jabodetabek-_full02_rp5ruka8.jpg",
+    "description": {
+        Tipe Mesin : "Water-cooled, 4 stroke DOHC 4-valve",
+        Susunan silinder : "Single cylinder",
+        Volume Silinder : "147,3 cc"
+        Kapasitas Tangki Bensi : "11 L"
+    } 
+    "category": {
+      "idCategory": 3,
+      "categoryName": "Sport",
+    },
+    "brand": {
+      "id": 3,
+      "name": "Suzuki",
+    }
+  },
+
+
+
+
+]
+
+
